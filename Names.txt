@@ -1,0 +1,7 @@
+Matthew Hart,3.9,BYU,87,88,81,95,100
+James Doe,4.3,BYUH,75,100,100,89,100
+John Doe,3.61,BYUI,64,56,100,100,78
+Jeff Kent,3.85,BYUI,89,92,91,90,93
+Steven Speilberg,4.3,BYU,90,56,100,100,75
+Moana Oana,3.2,BYUH,89,90,92,85,75
+Stephen Knight, 3.80,BYUI,90,75,80,85,100
